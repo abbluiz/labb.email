@@ -1,5 +1,5 @@
 # labb.email
-Simple labb.email homepage
+Simple [labb.email](https://labb.email "LABB Email") homepage
 
 # Credits
 * Bundled Bootstrap v4.3.1 (License: [MIT](https://opensource.org/licenses/MIT "MIT"))
