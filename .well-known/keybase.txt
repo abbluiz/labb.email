@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abbluiz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://labb.email
+  * I am abbluiz (https://keybase.io/abbluiz) on keybase.
+  * I have a public key ASDiSnwEsFHvLo_g0NtObgpZuzgC-Z0x5pbFw4xnoi3G6wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205a6aa381d31479fe5c80a9d88ec4a014311d57a5edbaf10bb8ba4a884116c6b70a",
+      "host": "keybase.io",
+      "kid": "0120e24a7c04b051ef2e8fe0d0db4e6e0a59bb3802f99d31e696c5c38c67a22dc6eb0a",
+      "uid": "05336ae81b63880f93077016426aef19",
+      "username": "abbluiz"
+    },
+    "merkle_root": {
+      "ctime": 1559692839,
+      "hash": "bb8e1e984a5c559ab7b58c73b574cfeaef82a342007caec71626450e191ca7c26448565e2e5c16487a8805ba0935dbcfdb866bc592ff68385c121959dbc73bdf",
+      "hash_meta": "d69e390a0010c5d78eb1a599bfc390f4e3106f118e18d19c1de95339b3552983",
+      "seqno": 5509070
+    },
+    "service": {
+      "entropy": "9dR30V9MQeIr3K98abuRt4jh",
+      "hostname": "labb.email",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559692864,
+  "expire_in": 504576000,
+  "prev": "a025609f023230c439decb971424ee0a79160d7b7547d907507643ee018398b4",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4kp8BLBR7y6P4NDbTm4KWbs4AvmdMeaWxcOMZ6ItxusKp3BheWxvYWTESpcCDsQgoCVgnwIyMMQ53suXFCTuCnkWDXt1R9kHUHZD7gGDmLTEIGZD9Gigi0a4TTHXwGR5+RzUIX0cMXms0S/tiquMv189AgHCo3NpZ8RAjIsLg4tsaYMnVLbXxJYJqqF6FQwzHDYBKhEMYv4PAiua+LN9x8tICzH0TE1pRWfhohrIbRar8xsnIQ4n7UpQDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG0NQLapS1Usyfq44C99reWZO+ET3QN3QhJbAyFKzacCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abbluiz
+
+==================================================================
