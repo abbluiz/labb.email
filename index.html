@@ -14,9 +14,32 @@
         <link rel="stylesheet" href="static/css/bootstrap/bootstrap.min.css">
         <link rel="stylesheet" href="css/styles.css">
 
+        <style>
+            
+            .btn-danger {
+            
+                background-color: #a14040 !important;
+                
+                border-color: #a14040;
+                
+                color: #fff !important;
+                
+            }
+                
+            .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
+            
+                background-color: #793030 !important;
+                
+                border-color: #793030;
+                
+                color: #fff !important;
+        
+            }
+        </style>
+
     </head>
 
-    <body class="text-white bg-dark">
+    <body class="text-white" style="background-color: black;">
 
         <div class="container">
 
@@ -26,24 +49,15 @@
 
                 <div class="col col-lg-8 vertical-center">
 
-                    <div class="jumbotron no-margin-bottom bg-secondary text-light">
-                        <h1 class="d-sm-none display-6">you found my email</h1>
-                        <h1 class="d-none d-sm-block display-4">you found my email</h1>
-                        <hr class="my-4">
-                        <figure class="figure">
-                            <img src="img/dummy-image.jpeg" class="figure-img rounded img-fluid" alt="A dummy image">
-                            <figcaption class="figure-caption text-light">feel free to leave me a message</figcaption>
-                        </figure>
+                    <div class="jumbotron no-margin-bottom bg-dark text-light">
+                        <h1 class="display-4">you found my email</h1>
                         <hr class="my-4">
                         
-                        <div class="d-sm-none">
-                            <a class="btn btn-dark btn-lg btn-block" href="mailto:contact@labb.email" role="button">contact@labb.email</a>
-                            <button type="button" class="btn btn-light btn-sm btn-block" disabled>continue to abbluiz.com</button>
-                        </div>
-                        
-                        <div class="d-none d-sm-block">
-                            <a class="btn btn-dark btn-lg" href="mailto:contact@labb.email" role="button">contact@labb.email</a><br><br>
-                            <button type="button" class="btn btn-light btn-sm" disabled>continue to abbluiz.com</button>
+                        <p><small>feel free to leave me a message</small></p>
+
+                        <div>
+                            <a class="btn btn-primary btn-lg btn-block" href="mailto:contact@labb.email" role="button">contact@labb.email</a>
+                            <a class="btn btn-danger btn-sm btn-block" href="https://www.abbluiz.com" role="button">continue to abbluiz.com</a>
                         </div>
                     
                     </div>
